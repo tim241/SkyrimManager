@@ -1,0 +1,1 @@
+# Skyrim Manager for Linux
